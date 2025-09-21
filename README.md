@@ -48,10 +48,6 @@ Uma aplicação web moderna e responsiva para descobrir e explorar cervejarias d
 - **React Hook Form 7.63.0** - Gerenciamento de formulários
 - **Conform** - Integração de validação com formulários
 
-### DevOps & Deploy
-- **Docker** - Containerização
-- **Docker Compose** - Orquestração de containers
-
 ## 📁 Estrutura do Projeto
 
 ```
@@ -70,7 +66,6 @@ my-react-router-app/
 │   └── routes.ts           # Configuração de rotas
 ├── public/                 # Arquivos estáticos
 ├── docs/                   # Documentação
-├── Dockerfile              # Configuração Docker
 ├── package.json            # Dependências e scripts
 └── README.md              # Este arquivo
 ```
@@ -104,23 +99,6 @@ A aplicação estará disponível em `http://localhost:5173`
 ```bash
 npm run build
 npm start
-```
-
-## 🐳 Deploy com Docker
-
-### Build da imagem
-```bash
-docker build -t beerapp-cervejarias .
-```
-
-### Executar container
-```bash
-docker run -p 3000:3000 beerapp-cervejarias
-```
-
-### Docker Compose (com Redis)
-```bash
-docker-compose up -d
 ```
 
 ## 📊 API e Dados
