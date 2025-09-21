@@ -84,7 +84,7 @@ my-react-router-app/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/beerapp-cervejarias.git
+git clone https://github.com/AndreSDS/beerapp-cervejarias.git
 cd beerapp-cervejarias
 ```
 

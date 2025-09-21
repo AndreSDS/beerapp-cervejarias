@@ -31,7 +31,7 @@ Este guia te ajudará a configurar e publicar seu repositório BeerApp no GitHub
 
 ```bash
 # Adicionar remote origin
-git remote add origin https://github.com/SEU-USUARIO/beerapp-cervejarias.git
+git remote add origin https://github.com/AndreSDS/beerapp-cervejarias.git
 
 # Verificar remote
 git remote -v
@@ -197,7 +197,7 @@ Se encontrar problemas:
 
 1. Verifique a [documentação do GitHub](https://docs.github.com)
 2. Consulte o [guia de contribuição](CONTRIBUTING.md)
-3. Abra uma [issue](https://github.com/SEU-USUARIO/beerapp-cervejarias/issues)
+3. Abra uma [issue](https://github.com/AndreSDS/beerapp-cervejarias/issues)
 
 ---
 
