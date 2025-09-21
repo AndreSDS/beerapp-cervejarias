@@ -9,13 +9,13 @@ Uma aplicação web moderna e responsiva para descobrir e explorar cervejarias d
 
 ## 🚀 Demonstração
 
-![BeerApp Homepage](docs/images/homepage.svg)
+![BeerApp Homepage](docs/images/home.PNG)
 *Página inicial com design moderno e responsivo*
 
-![Cervejarias List](docs/images/breweries-list.svg)
+![Cervejarias List](docs/images/list-cervejarias.PNG)
 *Lista de cervejarias com filtros e busca*
 
-![Detalhes da Cervejaria](docs/images/brewery-details.svg)
+![Detalhes da Cervejaria](docs/images/detalhes-cervejaria.PNG)
 *Página de detalhes com informações completas*
 
 ## ✨ Funcionalidades
